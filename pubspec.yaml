@@ -1,0 +1,21 @@
+name: news_api
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  http: ^1.2.0
+  url_launcher: ^6.2.5
+
+flutter:
+  uses-material-design: true
